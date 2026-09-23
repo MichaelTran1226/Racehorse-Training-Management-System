@@ -5,6 +5,10 @@
 !/.agent/
 !/PRD.md
 !/subject.md
+!/README.md
+!/CONTRIBUTING.md
+!/.github/
+!/docs/
 !/assets/
 !/frontend/
 !/backend/
